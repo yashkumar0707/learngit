@@ -1,6 +1,6 @@
 
     { 
-      id:1,
+      time:1,
       name: "Apoorva",
       desc: "Chair",
       photo: "images/apoorva.jpg",
