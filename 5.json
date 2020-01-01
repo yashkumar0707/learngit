@@ -1,1 +1,21 @@
-[{"name":"yash","body":"acm-w","date":"abcd"},{"name":"john","body":"acm","date":"popop"},{"name":"adi","body":"acm","date":"yuyuy"}]
+[
+    {
+        "name": "Microsoft Codess",
+        "organiser": "Microsoft",
+        "typeOfEvent": "Coding contest -> Hackathon",
+        "awardsPrizesBenefits": "Internship opportunity",
+        "eventDomainTags": "CP",
+        "website": "https://www.codess.net/",
+        "eligibility": "Second year female students",
+        "description": "Codess aims to inspire female coders and help them achieve their professional goals."
+    },
+    {
+        "name": "Visa Code Ur Way",
+        "organiser": "Visa",
+        "typeOfEvent": "Coding contest -> Trip to visa office",
+        "awardsPrizesBenefits": "Internship/placement opportunity",
+        "eventDomainTags": "CP",
+        "website": "https://www.hackerearth.com/challenges/hiring/visa-code-your-way-2019/",
+        "eligibility": "Third + Fourth year female students"
+    }
+]
