@@ -646,7 +646,8 @@
         "eventDomainTags": "Coding contest",
         "website": "https://icpc.baylor.edu/",
         "applicationDate": "-",
-        "eligibility": "Enrolled in a degree program at an institution (in or outside India) that can sponsor you"
+        "eligibility": "Enrolled in a degree program at an institution (in or outside India) that can sponsor you",
+        "description": "-"
     },
     {
         "name": "Global Crowdsource Summit by Google",
